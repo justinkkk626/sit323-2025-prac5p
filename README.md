@@ -17,7 +17,7 @@ This project is for SIT323 5.1P task. I created a simple Node.js web app and ran
 
 ---
 
-## 🧱 How to run the app
+##  ……How to run the app
 
 1. Clone this repository
 
